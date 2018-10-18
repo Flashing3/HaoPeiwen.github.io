@@ -1,6 +1,1 @@
-# Haopeiwen
-
-## based on the jekyll template
-
-i
-
+# Haopeiwen's site
