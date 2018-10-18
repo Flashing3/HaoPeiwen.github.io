@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://peiwenhao.com/404.html</loc>
+            <loc>/404.html</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/about/</loc>
+            <loc>/about/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/blog/</loc>
+            <loc>/category/blog/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/contact/</loc>
+            <loc>/contact/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/css/</loc>
+            <loc>/category/css/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/django/</loc>
+            <loc>/category/django/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/feed.xml</loc>
+            <loc>/feed.xml</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/</loc>
+            <loc>/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/life/</loc>
+            <loc>/category/life/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/mobile/</loc>
+            <loc>/category/mobile/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/contact/message-sent/</loc>
+            <loc>/contact/message-sent/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/search.json</loc>
+            <loc>/search.json</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/sitemap.xml</loc>
+            <loc>/sitemap.xml</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/tags/index.html</loc>
+            <loc>/tags/index.html</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/tutorial/</loc>
+            <loc>/category/tutorial/</loc>
         </url>
     
         <url>
-            <loc>http://peiwenhao.com/category/webdev/</loc>
+            <loc>/category/webdev/</loc>
         </url>
     
     
         <url>
-            <loc>http://peiwenhao.com/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</loc>
+            <loc>/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/box-shadow-ou-filter-drop-shadow/</loc>
+            <loc>/box-shadow-ou-filter-drop-shadow/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</loc>
+            <loc>/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</loc>
+            <loc>/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/por-que-o-sketch-vale-3-tanques-de-gasolina/</loc>
+            <loc>/por-que-o-sketch-vale-3-tanques-de-gasolina/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/como-fazer-um-hello-world-com-vue-js-2/</loc>
+            <loc>/como-fazer-um-hello-world-com-vue-js-2/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/minhas-primeiras-5-impressoes-sobre-django/</loc>
+            <loc>/minhas-primeiras-5-impressoes-sobre-django/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</loc>
+            <loc>/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</loc>
+            <loc>/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</loc>
         </url>
   
         <url>
-            <loc>http://peiwenhao.com/seja-bem-vindo/</loc>
+            <loc>/seja-bem-vindo/</loc>
         </url>
   
 </urlset>
