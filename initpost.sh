@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://www.rossener.com/"
+BLOG_URL="http://peiwenhao.com/"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -111,12 +111,14 @@ initpost_content() {
 
 echo "---"
 echo "layout: post"
+echo "comments: true"
 echo "title: \"${POST_TITLE}\""
 echo "date: ${CURRENT_DATE} ${TIME}"
 echo "image: ''"
 echo "description:"
 echo "category: ''"
 echo "tags:"
+echo "- "
 echo "twitter_text:"
 echo "introduction:"
 echo "---"

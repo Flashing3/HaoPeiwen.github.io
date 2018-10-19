@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_drafts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://www.rossener.com/"
+BLOG_URL="http://peiwenhao.com/"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -111,6 +111,7 @@ initdraft_content() {
 
 echo "---"
 echo "layout: post"
+echo "comments: true"
 echo "title: \"${POST_TITLE}\""
 echo "date: ${CURRENT_DATE} ${TIME}"
 echo "image: ''"

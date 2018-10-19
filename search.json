@@ -2,7 +2,7 @@
   
     {
       "title"    : "About ME",
-      "tags"     : "CS, photography, painting, and traveling",
+      "tags"     : "CS, Cyber Security, Designing, Photography, Painting, and Traveling",
       "categories" : "Me",
       "url"      : "/about-me/",
       "date"     : "10/19/2018"
@@ -10,7 +10,7 @@
   
     {
       "title"    : "ANL T-shirt design",
-      "tags"     : "painting",
+      "tags"     : "Designing and Painting",
       "categories" : "blog",
       "url"      : "/anl-t-shirt-design/",
       "date"     : "07/01/2018"
@@ -18,7 +18,7 @@
   
     {
       "title"    : "Lake Baikal Tour",
-      "tags"     : "traveling and photography",
+      "tags"     : "Photography and Traveling",
       "categories" : "life",
       "url"      : "/lake-baikal-tour/",
       "date"     : "09/12/2017"

@@ -5,8 +5,8 @@
     <description>Valar Morghulis.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Oct 2018 20:34:02 +0800</pubDate>
-    <lastBuildDate>Fri, 19 Oct 2018 20:34:02 +0800</lastBuildDate>
+    <pubDate>Fri, 19 Oct 2018 21:18:44 +0800</pubDate>
+    <lastBuildDate>Fri, 19 Oct 2018 21:18:44 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -28,11 +28,15 @@ me, you will be very welcome.&lt;/p&gt;
         
         <category>CS</category>
         
-        <category>photography</category>
+        <category>Cyber Security</category>
         
-        <category>painting</category>
+        <category>Designing</category>
         
-        <category>traveling</category>
+        <category>Photography</category>
+        
+        <category>Painting</category>
+        
+        <category>Traveling</category>
         
         
         <category>Me</category>
@@ -41,31 +45,14 @@ me, you will be very welcome.&lt;/p&gt;
     
       <item>
         <title>ANL T-shirt design</title>
-        <description>&lt;p&gt;I am honored to design the 2018 T-shirt for the ANL Lab, namely Advanced Network Laboratory, Shanghai Jiao Tong University. Though I was overwrought and took a lot of detours the first time I participated in shirt design, I manage to make a satisfying work (at least for me).&lt;/p&gt;
-
-&lt;p&gt;The design derived from “Thorn and flame”, which represented obstacles and ambition respectively.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_2591(20180627-113031).jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;pencil draft&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_2371(20180803-183056).jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;iPad Procreate version&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_3253(20180628-122226).jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Add slogan&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_2599.PNG&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Final version&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/HaoPeiwen/HaoPeiwen.github.io/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</description>
+        <description>&lt;p&gt;I am honored to design the 2018 T-shirt for the ANL Lab, namely Advanced Network Laboratory, Shanghai Jiao Tong University. Though I was overwrought and took a lot of detours the first time I participated in shirt design, I manage to make a satisfying work (at least for me).&lt;/p&gt; &lt;p&gt;The design derived from “Thorn and flame”, which represented obstacles and ambition respectively.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_2591(20180627-113031).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;pencil draft&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_2371(20180803-183056).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;iPad Procreate version&lt;/em&gt;&lt;/p&gt; &lt;p&gt;The slogan given by &lt;em&gt;Prof. Gao&lt;/em&gt; called “My heart is full of enthusiasm no matter how mundane the world exits.”&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;无论世事如何，我心热情如火&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/HaoPeiwen/Mdimage/master/painting/IMG_3253(20180628-122226).jpg&quot;...</description>
         <pubDate>Sun, 01 Jul 2018 09:00:35 +0800</pubDate>
         <link>/anl-t-shirt-design/</link>
         <guid isPermaLink="true">/anl-t-shirt-design/</guid>
         
-        <category>painting</category>
+        <category>Designing</category>
+        
+        <category>Painting</category>
         
         
         <category>blog</category>
@@ -79,9 +66,9 @@ me, you will be very welcome.&lt;/p&gt;
         <link>/lake-baikal-tour/</link>
         <guid isPermaLink="true">/lake-baikal-tour/</guid>
         
-        <category>traveling</category>
+        <category>Photography</category>
         
-        <category>photography</category>
+        <category>Traveling</category>
         
         
         <category>life</category>
