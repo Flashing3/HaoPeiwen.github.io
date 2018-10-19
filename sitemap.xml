@@ -67,7 +67,7 @@
     
     
         <url>
-            <loc>/about-me/</loc>
+            <loc>/gallery/</loc>
         </url>
   
         <url>
@@ -76,6 +76,10 @@
   
         <url>
             <loc>/lake-baikal-tour/</loc>
+        </url>
+  
+        <url>
+            <loc>/about-me/</loc>
         </url>
   
 </urlset>
