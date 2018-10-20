@@ -5,35 +5,57 @@
     <description>Valar Morghulis.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Oct 2018 16:00:35 +0800</pubDate>
-    <lastBuildDate>Sat, 20 Oct 2018 16:00:35 +0800</lastBuildDate>
+    <pubDate>Sat, 20 Oct 2018 19:53:37 +0800</pubDate>
+    <lastBuildDate>Sat, 20 Oct 2018 19:53:37 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
-        <title>Photostudio</title>
-        <description>&lt;h1 id=&quot;something-about-motivation&quot;&gt;Something about motivation&lt;/h1&gt; &lt;p&gt;I got the first Nikon DSLR camera totally belonging to me when I entered university. Then I tried to construct monochrome pictures, like rough sketch, to harmonize the imagined elements look like they were observed along with the oberved elements.&lt;/p&gt; &lt;p&gt;The first intensive exercise experience: Military training&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/IMG_0120.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Photography volunteer in Military training&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;landscape&quot;&gt;Landscape&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/HPW_9894.jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_3730(20170720-154625).jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_3709(20180818-223610).jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_3707(20170819-011434).jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/HPW_9879.jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Shaxi Town, Yunnan Province&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/IMG_0946.JPG&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_0947.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Wulanbutong prairie&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/IMG_3828.JPG&quot; alt=&quot;&quot; /&gt;...</description>
+        <title>About ME</title>
+        <description>&lt;h2 id=&quot;peiwen-hao&quot;&gt;Peiwen Hao&lt;/h2&gt;
+
+&lt;p&gt;Thank you for viewing my website, I am currently an undergraduate student studying Information Security in Shanghai Jiao Tong University.&lt;/p&gt;
+
+&lt;p&gt;I am glad that I can share my thoughts with you here. If you are interested in my work, please feel free to 
+&lt;a href=&quot;/contact/&quot;&gt;Contact&lt;/a&gt; 
+me, you will be very welcome.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/CV/&quot;&gt;CV&lt;/a&gt; (not upload yet)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/HaoPeiwen&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/gallery/&quot;&gt;Gallery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/photography/&quot;&gt;Photography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/&quot;&gt;Back to HOME&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/HaoPeiwen/HaoPeiwen.github.io/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+</description>
         <pubDate>Sat, 20 Oct 2018 09:48:34 +0800</pubDate>
-        <link>/photography/</link>
-        <guid isPermaLink="true">/photography/</guid>
+        <link>/about-me/</link>
+        <guid isPermaLink="true">/about-me/</guid>
         
-        <category>Photography</category>
+        <category>CS</category>
+        
+        <category>Cyber Security</category>
         
         
-        <category>blog</category>
+        <category>Me</category>
         
       </item>
     
       <item>
-        <title>Gallery</title>
-        <description>&lt;p&gt;Here I share my previous drawings with you.&lt;/p&gt; &lt;h1 id=&quot;color-lead&quot;&gt;Color lead&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_2049.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;folded cash&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_9557(20180813-163554).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;color&amp;amp;bubble&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_0231(20180818-033818).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;peacock&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_0289(20180609-114759).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;the first color lead drawing&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;sketch&quot;&gt;Sketch&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_0199.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;painful&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_9528(20171023-021721).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;glassy&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;ipad&quot;&gt;iPad&lt;/h1&gt; &lt;p&gt;Made by Procreate.&lt;/p&gt; &lt;h2 id=&quot;portrait&quot;&gt;Portrait&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_4038(20181012-181127).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Yiwei&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_1554(20180818-223622).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;yuanqi&amp;amp;jiujiu&lt;/em&gt;&lt;/p&gt; &lt;h2 id=&quot;line&quot;&gt;Line&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_3009.PNG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;hugging&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_3014(20180625-103322).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;metamorphosis&lt;/em&gt;&lt;/p&gt; &lt;h2 id=&quot;other-style&quot;&gt;Other STYLE&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_1365(20180411-123221).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;hook man&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_1269.PNG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Bleeder&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_5455.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;You know nothing&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;to-be-continued&quot;&gt;TO...</description>
-        <pubDate>Thu, 30 Aug 2018 02:16:40 +0800</pubDate>
-        <link>/gallery/</link>
-        <guid isPermaLink="true">/gallery/</guid>
+        <title>PBFT</title>
+        <description>&lt;h1 id=&quot;问题定义&quot;&gt;问题定义&lt;/h1&gt; &lt;h2 id=&quot;背景动机&quot;&gt;背景&amp;amp;动机&lt;/h2&gt; &lt;p&gt;PBFT是一种状态机副本复制算法，是为了解决含有拜占庭节点的分布式网络系统的共识问题，&lt;code class=&quot;highlighter-rouge&quot;&gt;Practical Byzantine Fault Tolerance&lt;/code&gt;这篇文章主要是解决了以前的工作 (1)低效率 (2)假设同步网络的问题。&lt;/p&gt; &lt;blockquote&gt; &lt;h2 id=&quot;拜占庭将军问题&quot;&gt;拜占庭将军问题&lt;/h2&gt; &lt;p&gt;一组拜占庭将军共同围困一座城市，他们之间的通信是依靠信使，将军间约定通过投票来决定行动（进攻/撤退）；系统的问题在于，将军中可能出现叛徒，他们不仅可能向较为糟糕的策略投票，还可能选择性地发送投票信息，这些将军（节点）就是拜占庭节点，由于将军之间需要通过信使通讯，叛变将军可能通过伪造信件来以其他将军的身份发送假投票。而即使在保证所有将军忠诚的情况下，也不能排除信使被敌人截杀，甚至被敌人间谍替换等情况。因此很难通过保证人员可靠性及通讯可靠性来解决问题。&lt;/p&gt; &lt;p&gt;在计算机中，将军便成了计算机，而信差就是通信系统。即使有信息安全的加密措施，却没办法单纯的用密码学与数字签名来解决。因为电路错误仍可能影响整个加密过程，这不是密码学与数字签名算法在解决的问题。因此计算机就有可能将错误的结果提交去，亦可能导致错误的决策，这才是拜占庭容错要解决的问题。&lt;/p&gt; &lt;/blockquote&gt; &lt;blockquote&gt; &lt;h2 id=&quot;同步异步&quot;&gt;同步/异步&lt;/h2&gt; &lt;p&gt;首先本文中提到文章的假设环境是异步网络，而解决了前人工作仅仅假设同步网络的缺陷： Previous work 假设同步网络，攻击者只需要拒绝服务攻击即可让non-faulty节点被标为faulty，而文章假设的异步分布式系统：节点通过网络相连，进而有可能发生：发送失败，延迟，重发，顺序调换等等。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;同步网络：是指系统中的各个节点的时钟误差存在上限；并且消息传递必须在一定时间内完成，否则认为失败；同时各个节点完成处理消息的时间是一定的。因此同步系统中可以很容易地判断消息是否丢失。&lt;/li&gt; &lt;li&gt;异步网络：则意味着系统中各个节点可能存在较大的时钟差异；与同步通信的最大区别是没有时钟、不能时间同步、不能使用超时、不能探测失败、消息可任意延迟、消息可乱序。这就造成无法判断某个消息迟迟没有被响应是哪里出了问题（节点故障或是传输故障），而现实生活中的系统往往都是异步系统。&lt;/li&gt; &lt;/ul&gt; &lt;/blockquote&gt; &lt;blockquote&gt; &lt;h2 id=&quot;一致性&quot;&gt;一致性&lt;/h2&gt; &lt;p&gt;PoW,PoS等公链共识算法解决的是可信和一致性，并且达到最终一致性（而非强一致性），PBFT的目标是实现联盟链的共识，联盟链和公有链不同的是，参与记账的人，身份是可知的、可控的，可能有监管或者经济共同利益之类的措施来约束他们。另外，联盟链的场景倾向与追求强一致性，也就是说一笔交易发生了，就不能再被分叉或回滚推翻了。文章中提到的词是Linearizability,我的理解是一项操作有一个确定的响应时间点，不会在分布式节点中发生信息回退。&lt;/p&gt; &lt;/blockquote&gt; &lt;h2 id=&quot;问题描述&quot;&gt;问题描述&lt;/h2&gt; &lt;p&gt;因此拜占庭容错系统是指：在一个拥有n台服务器的系统中，整个系统对于每一个请求需满足以下条件：&lt;/p&gt; &lt;ul&gt; &lt;li&gt;所有非拜占庭服务器使用相同的输入信息，产生一致的结果；&lt;/li&gt; &lt;li&gt;如果输入的信息正确，那么所有非拜占庭服务器必须接受这个信息，并计算相应的结果；&lt;/li&gt; &lt;li&gt;其可以在失效节点不超过总数 1/3 的情况下同时保证 Safety 和 Liveness，即 &lt;code class=&quot;highlighter-rouge&quot;&gt;n≥3f+1&lt;/code&gt;。&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;理解-3f1&quot;&gt;理解 3f+1&lt;/h3&gt; &lt;p&gt;由于f个faulty节点可能永远不回复，所以不能等到收到全部 n 个回复后才做出反应，而是收到 n-f 个回复就继续下一步；而 f 个没有收到的可能是高延迟的正确节点，所以在收到的 n-f 个消息中有可能有 f 个faulty消息；综上，需要在这种情况下依然能够达成safety，需要满足 n-2f&amp;gt;f 即 n≥3f+1；&lt;/p&gt; &lt;p&gt;在其他情况和假设中，有很多其他版本的BFT问题的总结点数，f，2f+1,4f+1等，这是取决于网络模型和进程模型的假设而定的。&lt;/p&gt; &lt;h2 id=&quot;输入&quot;&gt;输入&lt;/h2&gt; &lt;p&gt;在客户端角度，系统相当于一个黑盒，Client只需要向其发出一个request，经过一系列operations收到一致性结果(f+1个相同的结果)；&lt;/p&gt; &lt;p&gt;Request = &amp;lt; REQUEST, o, t, c &amp;gt;_sigma_c&lt;/p&gt; &lt;p&gt;其中 o 是状态机operation，t 是发送时间戳，c 是client，而后面的 sigma_c 应该是表示client的数字签名。&lt;/p&gt; &lt;h2 id=&quot;输出&quot;&gt;输出&lt;/h2&gt; &lt;p&gt;从每个副本节点收到reply,若得到f+1个相同的结果Reply则视为valid result；&lt;/p&gt; &lt;p&gt;Reply = &amp;lt; REPLY, v, t, c, i, r &amp;gt;_sigma_i&lt;/p&gt; &lt;p&gt;其中...</description>
+        <pubDate>Mon, 01 Oct 2018 18:40:56 +0800</pubDate>
+        <link>/pbft/</link>
+        <guid isPermaLink="true">/pbft/</guid>
         
-        <category>Painting</category>
+        <category>CS</category>
+        
+        <category>Consensus</category>
         
         
-        <category>blog</category>
+        <category>tutorial</category>
         
       </item>
     
@@ -70,44 +92,16 @@
       </item>
     
       <item>
-        <title>About ME</title>
-        <description>&lt;h2 id=&quot;peiwen-hao&quot;&gt;Peiwen Hao&lt;/h2&gt;
-
-&lt;p&gt;Thank you for viewing my website, I am currently an undergraduate student studying Information Security in Shanghai Jiao Tong University.&lt;/p&gt;
-
-&lt;p&gt;I am glad that I can share my thoughts with you here. If you are interested in my work, please feel free to 
-&lt;a href=&quot;/contact/&quot;&gt;Contact&lt;/a&gt; 
-me, you will be very welcome.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/CV/&quot;&gt;CV&lt;/a&gt; (not upload yet)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/HaoPeiwen&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/gallery/&quot;&gt;Gallery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/photography/&quot;&gt;Photography&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/&quot;&gt;Back to HOME&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/HaoPeiwen/HaoPeiwen.github.io/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 10 Jun 2017 19:04:06 +0800</pubDate>
-        <link>/about-me/</link>
-        <guid isPermaLink="true">/about-me/</guid>
-        
-        <category>CS</category>
-        
-        <category>Cyber Security</category>
-        
-        <category>Designing</category>
-        
-        <category>Photography</category>
+        <title>Gallery</title>
+        <description>&lt;p&gt;Here I share my previous drawings with you.&lt;/p&gt; &lt;h1 id=&quot;color-lead&quot;&gt;Color lead&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_2049.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;folded cash&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_9557(20180813-163554).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;color&amp;amp;bubble&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_0231(20180818-033818).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;peacock&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_0289(20180609-114759).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;the first color lead drawing&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;sketch&quot;&gt;Sketch&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_0199.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;painful&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_9528(20171023-021721).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;glassy&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;ipad&quot;&gt;iPad&lt;/h1&gt; &lt;p&gt;Made by Procreate.&lt;/p&gt; &lt;h2 id=&quot;portrait&quot;&gt;Portrait&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_4038(20181012-181127).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Yiwei&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_1554(20180818-223622).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;yuanqi&amp;amp;jiujiu&lt;/em&gt;&lt;/p&gt; &lt;h2 id=&quot;line&quot;&gt;Line&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_3009.PNG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;hugging&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_3014(20180625-103322).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;metamorphosis&lt;/em&gt;&lt;/p&gt; &lt;h2 id=&quot;other-style&quot;&gt;Other STYLE&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_1365(20180411-123221).jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;hook man&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_1269.PNG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Bleeder&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/painting/IMG_5455.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;You know nothing&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;to-be-continued&quot;&gt;TO...</description>
+        <pubDate>Thu, 30 Mar 2017 02:16:40 +0800</pubDate>
+        <link>/gallery/</link>
+        <guid isPermaLink="true">/gallery/</guid>
         
         <category>Painting</category>
         
-        <category>Traveling</category>
         
-        
-        <category>Me</category>
+        <category>blog</category>
         
       </item>
     
@@ -132,6 +126,20 @@ me, you will be very welcome.&lt;/p&gt;
         
         
         <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>Photostudio</title>
+        <description>&lt;h1 id=&quot;something-about-motivation&quot;&gt;Something about motivation&lt;/h1&gt; &lt;p&gt;I got the first Nikon DSLR camera totally belonging to me when I entered university. Then I tried to construct monochrome pictures, like rough sketch, to harmonize the imagined elements look like they were observed along with the oberved elements.&lt;/p&gt; &lt;p&gt;The first intensive exercise experience: Military training&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/IMG_0120.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Photography volunteer in Military training&lt;/em&gt;&lt;/p&gt; &lt;h1 id=&quot;landscape&quot;&gt;Landscape&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/HPW_9894.jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_3730(20170720-154625).jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_3709(20180818-223610).jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_3707(20170819-011434).jpg&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/HPW_9879.jpg&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Shaxi Town, Yunnan Province&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/IMG_0946.JPG&quot; alt=&quot;&quot; /&gt; &lt;img src=&quot;/assets/img/Photography/IMG_0947.JPG&quot; alt=&quot;&quot; /&gt; &lt;em&gt;Wulanbutong prairie&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/Photography/IMG_3828.JPG&quot; alt=&quot;&quot; /&gt;...</description>
+        <pubDate>Wed, 20 Jan 2016 09:48:34 +0800</pubDate>
+        <link>/photography/</link>
+        <guid isPermaLink="true">/photography/</guid>
+        
+        <category>Photography</category>
+        
+        
+        <category>blog</category>
         
       </item>
     

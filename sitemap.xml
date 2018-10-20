@@ -67,11 +67,11 @@
     
     
         <url>
-            <loc>/photography/</loc>
+            <loc>/about-me/</loc>
         </url>
   
         <url>
-            <loc>/gallery/</loc>
+            <loc>/pbft/</loc>
         </url>
   
         <url>
@@ -83,11 +83,15 @@
         </url>
   
         <url>
-            <loc>/about-me/</loc>
+            <loc>/gallery/</loc>
         </url>
   
         <url>
             <loc>/70th-birthday-of-grandpa/</loc>
+        </url>
+  
+        <url>
+            <loc>/photography/</loc>
         </url>
   
 </urlset>
