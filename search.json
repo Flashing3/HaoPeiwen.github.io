@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Photostudio",
+      "tags"     : "Photography",
+      "categories" : "blog",
+      "url"      : "/photography/",
+      "date"     : "10/20/2018"
+    } ,
+  
+    {
       "title"    : "Gallery",
       "tags"     : "Painting",
       "categories" : "blog",
       "url"      : "/gallery/",
-      "date"     : "10/20/2018"
+      "date"     : "08/30/2018"
     } ,
   
     {
