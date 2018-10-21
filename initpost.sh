@@ -122,6 +122,11 @@ echo "- "
 echo "twitter_text:"
 echo "introduction:"
 echo "---"
+echo " "
+echo "-----"
+echo " "
+echo "Want to see something else added? <a href="https://github.com/HaoPeiwen/HaoPeiwen.github.io/issues/new">Open an issue.</a>
+"
 
 }
 

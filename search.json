@@ -25,19 +25,19 @@
     } ,
   
     {
+      "title"    : "Gallery",
+      "tags"     : "Painting",
+      "categories" : "blog",
+      "url"      : "/gallery/",
+      "date"     : "03/30/2018"
+    } ,
+  
+    {
       "title"    : "Lake Baikal Tour",
       "tags"     : "Photography and Traveling",
       "categories" : "life",
       "url"      : "/lake-baikal-tour/",
       "date"     : "09/12/2017"
-    } ,
-  
-    {
-      "title"    : "Gallery",
-      "tags"     : "Painting",
-      "categories" : "blog",
-      "url"      : "/gallery/",
-      "date"     : "03/30/2017"
     } ,
   
     {
