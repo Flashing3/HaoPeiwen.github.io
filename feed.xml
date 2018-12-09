@@ -5,13 +5,13 @@
     <description>Valar Morghulis.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Dec 2018 22:00:29 +0800</pubDate>
-    <lastBuildDate>Sun, 09 Dec 2018 22:00:29 +0800</lastBuildDate>
+    <pubDate>Sun, 09 Dec 2018 22:12:35 +0800</pubDate>
+    <lastBuildDate>Sun, 09 Dec 2018 22:12:35 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Wireless Network Monitor Experiment</title>
-        <description>&lt;h2 id=&quot;environment&quot;&gt;Environment&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Virtual machine Kali-Linux-2018.4-vbox-amd64.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;VirtualBox running on Ubuntu 18.04 LTS.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Wireless USB adapter with chip-set RT3070.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;experiment&quot;&gt;Experiment&lt;/h2&gt; &lt;h3 id=&quot;wireless-usb-adapter&quot;&gt;Wireless USB adapter&lt;/h3&gt; &lt;p&gt;For Ubuntu VirtualBox, click setting before start VM, &lt;code class=&quot;highlighter-rouge&quot;&gt;setting-USB-add device(the wireless adapter)&lt;/code&gt;. If it shows &lt;code class=&quot;highlighter-rouge&quot;&gt;no available devices&lt;/code&gt;, you want firstly set up USB for VirtualBox:&lt;/p&gt; &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;adduser &lt;span class=&quot;nv&quot;&gt;$USER&lt;/span&gt; vboxusers &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;For persistent device connection to VM:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Open VirtualBox, go to Settings for the VM, Go to USB.&lt;/li&gt; &lt;li&gt;Click USB+ Icon and select device from List.&lt;/li&gt; &lt;li&gt;This will add a...</description>
+        <description>&lt;h2 id=&quot;environment&quot;&gt;Environment&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Virtual machine Kali-Linux-2018.4-vbox-amd64.&lt;/li&gt; &lt;li&gt;VirtualBox running on Ubuntu 18.04 LTS.&lt;/li&gt; &lt;li&gt;Wireless USB adapter with chip-set RT3070.&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;experiment&quot;&gt;Experiment&lt;/h2&gt; &lt;h3 id=&quot;wireless-usb-adapter&quot;&gt;Wireless USB adapter&lt;/h3&gt; &lt;p&gt;For Ubuntu VirtualBox, click setting before start VM, &lt;code class=&quot;highlighter-rouge&quot;&gt;setting-USB-add device(the wireless adapter)&lt;/code&gt;. If it shows &lt;code class=&quot;highlighter-rouge&quot;&gt;no available devices&lt;/code&gt;, you want firstly set up USB for VirtualBox:&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser $USER vboxusers &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;For persistent device connection to VM:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Open VirtualBox, go to Settings for the VM, Go to USB.&lt;/li&gt; &lt;li&gt;Click USB+ Icon and select device from List.&lt;/li&gt; &lt;li&gt;This will add a Filter Spec to the List, repeat as necessary for...</description>
         <pubDate>Sun, 09 Dec 2018 21:48:41 +0800</pubDate>
         <link>/wireless-network-monitor-experiment/</link>
         <guid isPermaLink="true">/wireless-network-monitor-experiment/</guid>
