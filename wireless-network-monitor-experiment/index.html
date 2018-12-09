@@ -149,10 +149,8 @@ December 9, 2018
 <h3 id="wireless-usb-adapter">Wireless USB adapter</h3>
 
 <p>For Ubuntu VirtualBox, click setting before start VM, <code class="highlighter-rouge">setting-USB-add device(the wireless adapter)</code>. If it shows <code class="highlighter-rouge">no available devices</code>, you want firstly set up USB for VirtualBox:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo adduser $USER vboxusers
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>adduser <span class="nv">$USER</span> vboxusers
 </code></pre></div></div>
-
 <p>For persistent device connection to VM:</p>
 
 <ol>
@@ -172,14 +170,14 @@ December 9, 2018
 
 <p><code class="highlighter-rouge">iwconfig</code> without any parameters to check wireless configuration:</p>
 
-<p><img src="/home/evander/Pictures/Screenshot from 2018-12-09 14-18-32.png" alt="Screenshot from 2018-12-09 14-18-32" /></p>
+<p><img src="/assets/img/monitor/32.png" alt="Screenshot from 2018-12-09 14-18-32" /></p>
 
 <p>Change mode from <code class="highlighter-rouge">Managed</code> to <code class="highlighter-rouge">Monitor</code>:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ifconfig wlan0 down    # disable wlan0. Otherwise it may report an error "Device or resource busy."
-airmon-ng check kill   # kill any process that could interfere with using my interface in monitor mode (not mandatory).
-iwconfig wlan0 mode monitor    # checkout monitor mode
-ifconfig wlan0 up      # restart
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ifconfig wlan0 down    <span class="c"># disable wlan0. Otherwise it may report an error "Device or resource busy."</span>
+airmon-ng check <span class="nb">kill</span>   <span class="c"># kill any process that could interfere with using my interface in monitor mode (not mandatory).</span>
+iwconfig wlan0 mode monitor    <span class="c"># checkout monitor mode</span>
+ifconfig wlan0 up      <span class="c"># restart</span>
 </code></pre></div></div>
 
 <p><img src="/assets/img/monitor/58.png" alt="Screenshot from 2018-12-09 14-23-58" /></p>
@@ -190,9 +188,9 @@ ifconfig wlan0 up      # restart
 
 <p>Another way to change mode is given in case of the <code class="highlighter-rouge">iwconfig</code> command doesn’t work.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ifconfig wlan0 down
-airmon-ng check kill
-airmon-ng start wlan0
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ifconfig wlan0 down
+airmon-ng check <span class="nb">kill
+</span>airmon-ng start wlan0
 </code></pre></div></div>
 
 <p>More usage refer to <a href="https://www.aircrack-ng.org/doku.php?id=airmon-ng">airmon-ng document</a>.</p>
@@ -210,7 +208,7 @@ airmon-ng start wlan0
 
 <p>Use <code class="highlighter-rouge">airodump-ng</code>, like <code class="highlighter-rouge">airmon-ng</code>, is part of <code class="highlighter-rouge">aircrack-ng</code>, to scan for wireless access points and connections.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>airodump-ng wlan0
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>airodump-ng wlan0
 </code></pre></div></div>
 
 <p><img src="/assets/img/monitor/26.png" alt="Screenshot from 2018-12-09 20-35-26" /></p>
@@ -316,18 +314,17 @@ airmon-ng start wlan0
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>airodump-ng --bssid 34:CE:00:46:FD:F8 --channel 7 --write 402sniffing wlan0
 </code></pre></div></div>
 
-<p><code class="highlighter-rouge">--bssid</code> : filter of BSSID</p>
-
-<p><code class="highlighter-rouge">--channel</code> : filter of CH</p>
-
-<p><code class="highlighter-rouge">--write</code> or <code class="highlighter-rouge">-w</code> : save the data you’re going to capture to 4 files with name <code class="highlighter-rouge">402sniffing-01.*</code></p>
-
-<p><code class="highlighter-rouge">wlan0</code> : interface that wireless adapter in monitor mode</p>
+<ul>
+  <li><code class="highlighter-rouge">--bssid</code> : filter of BSSID</li>
+  <li><code class="highlighter-rouge">--channel</code> : filter of CH</li>
+  <li><code class="highlighter-rouge">--write</code> or <code class="highlighter-rouge">-w</code> : save the data you’re going to capture to 4 files with name <code class="highlighter-rouge">402sniffing-01.*</code></li>
+  <li><code class="highlighter-rouge">wlan0</code> : interface that wireless adapter in monitor mode</li>
+</ul>
 
 <p><img src="/assets/img/monitor/09.png" alt="Screenshot from 2018-12-09 20-41-09" />
-Use command:</p>
+Use command to check the capture data. (Encrypted)</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wireshark 402sniffing-01.cap to check the capture data. (Encrypted)
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wireshark 402sniffing-01.cap
 </code></pre></div></div>
 
 <h3 id="deauthentication-attack">Deauthentication attack</h3>
@@ -343,13 +340,12 @@ Use command:</p>
 </ul>
 
 <p>Command:</p>
-
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>aireplay-ng --deauth [#DeauthPackets] -a [NetworkMac] -c [TargetMac] [Interface]
 </code></pre></div></div>
 
 <p><img src="/assets/img/monitor/43.png" alt="Screenshot from 2018-12-09 21-17-43" /></p>
 
-<p>After that, the station, which is my iPhone, is disconnected with 402 WiFi.</p>
+<p>After that, the station, which is my iPhone, is disconnected to WiFi.</p>
 
 <h4 id="theory">Theory</h4>
 
